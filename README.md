@@ -29,13 +29,13 @@ To use the system:
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Muhammadrizo04/find_face.git
 ```
 
 2. Navigate to the repository directory:
 
 ```bash
-cd <repository_name>
+cd find_face
 ```
 
 3. Run the Python script:
